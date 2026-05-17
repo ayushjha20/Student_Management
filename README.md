@@ -64,10 +64,4 @@ git clone https://github.com/your-username/jdbc-student-management-app.git
 
 
 
-## Contributions
 
-Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
